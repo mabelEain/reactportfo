@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactportfo/static/css/main.4a53326c.css",
+    "main.js": "/reactportfo/static/js/main.6e6713e1.js",
+    "static/media/newsapp.png": "/reactportfo/static/media/newsapp.8cb5304e3c6b93776e06.png",
+    "static/media/ecommerceapp.png": "/reactportfo/static/media/ecommerceapp.a4ca6fd5a84f20123157.png",
+    "static/media/robofriends.png": "/reactportfo/static/media/robofriends.947bee90d569844dd74a.png",
+    "static/media/react.png": "/reactportfo/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/reactportfo/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/reactportfo/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/reactportfo/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/reactportfo/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/reactportfo/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/reactportfo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/python.svg": "/reactportfo/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "index.html": "/reactportfo/index.html",
+    "main.4a53326c.css.map": "/reactportfo/static/css/main.4a53326c.css.map",
+    "main.6e6713e1.js.map": "/reactportfo/static/js/main.6e6713e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a53326c.css",
+    "static/js/main.6e6713e1.js"
+  ]
+}
