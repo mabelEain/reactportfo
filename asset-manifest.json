@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/reactportfo/static/css/main.4a53326c.css",
-    "main.js": "/reactportfo/static/js/main.ce2332a4.js",
-    "static/media/newsapp.png": "/reactportfo/static/media/newsapp.8cb5304e3c6b93776e06.png",
-    "static/media/ecommerceapp.png": "/reactportfo/static/media/ecommerceapp.a4ca6fd5a84f20123157.png",
+    "main.js": "/reactportfo/static/js/main.8f84239e.js",
+    "static/media/salary_prediction.png": "/reactportfo/static/media/salary_prediction.b9946ea5bb573cd77282.png",
     "static/media/robofriends.png": "/reactportfo/static/media/robofriends.947bee90d569844dd74a.png",
+    "static/media/sale_dashboard.png": "/reactportfo/static/media/sale_dashboard.9f3adc7fe1fb1a7000d5.png",
     "static/media/react.png": "/reactportfo/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/reactportfo/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mylogo.png": "/reactportfo/static/media/mylogo.787da031e2b9434a1a40.png",
@@ -16,10 +16,10 @@
     "static/media/python.svg": "/reactportfo/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
     "index.html": "/reactportfo/index.html",
     "main.4a53326c.css.map": "/reactportfo/static/css/main.4a53326c.css.map",
-    "main.ce2332a4.js.map": "/reactportfo/static/js/main.ce2332a4.js.map"
+    "main.8f84239e.js.map": "/reactportfo/static/js/main.8f84239e.js.map"
   },
   "entrypoints": [
     "static/css/main.4a53326c.css",
-    "static/js/main.ce2332a4.js"
+    "static/js/main.8f84239e.js"
   ]
 }
