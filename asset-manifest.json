@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/reactportfo/static/css/main.4a53326c.css",
-    "main.js": "/reactportfo/static/js/main.8f84239e.js",
+    "main.js": "/reactportfo/static/js/main.31614c9a.js",
     "static/media/salary_prediction.png": "/reactportfo/static/media/salary_prediction.b9946ea5bb573cd77282.png",
     "static/media/robofriends.png": "/reactportfo/static/media/robofriends.947bee90d569844dd74a.png",
     "static/media/sale_dashboard.png": "/reactportfo/static/media/sale_dashboard.9f3adc7fe1fb1a7000d5.png",
+    "static/media/postgresql.png": "/reactportfo/static/media/postgresql.e57c8e1bb371e1c86652.png",
     "static/media/react.png": "/reactportfo/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/reactportfo/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mylogo.png": "/reactportfo/static/media/mylogo.787da031e2b9434a1a40.png",
-    "static/media/mongo.png": "/reactportfo/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/reactportfo/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/reactportfo/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/reactportfo/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/reactportfo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/mysql.png": "/reactportfo/static/media/mysql.8ca52c25afffafaa83f1.png",
     "static/media/python.svg": "/reactportfo/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
     "index.html": "/reactportfo/index.html",
     "main.4a53326c.css.map": "/reactportfo/static/css/main.4a53326c.css.map",
-    "main.8f84239e.js.map": "/reactportfo/static/js/main.8f84239e.js.map"
+    "main.31614c9a.js.map": "/reactportfo/static/js/main.31614c9a.js.map"
   },
   "entrypoints": [
     "static/css/main.4a53326c.css",
-    "static/js/main.8f84239e.js"
+    "static/js/main.31614c9a.js"
   ]
 }
