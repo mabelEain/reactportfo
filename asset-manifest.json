@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/reactportfo/static/css/main.4a53326c.css",
-    "main.js": "/reactportfo/static/js/main.603fd898.js",
+    "main.js": "/reactportfo/static/js/main.ed0ed591.js",
     "static/media/salary_prediction.png": "/reactportfo/static/media/salary_prediction.b9946ea5bb573cd77282.png",
+    "static/media/react-admin-home.png": "/reactportfo/static/media/react-admin-home.84abb3bb54aeb4a06922.png",
     "static/media/robofriends.png": "/reactportfo/static/media/robofriends.947bee90d569844dd74a.png",
     "static/media/sale_dashboard.png": "/reactportfo/static/media/sale_dashboard.9f3adc7fe1fb1a7000d5.png",
     "static/media/postgresql.png": "/reactportfo/static/media/postgresql.e57c8e1bb371e1c86652.png",
@@ -16,10 +17,10 @@
     "static/media/python.svg": "/reactportfo/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
     "index.html": "/reactportfo/index.html",
     "main.4a53326c.css.map": "/reactportfo/static/css/main.4a53326c.css.map",
-    "main.603fd898.js.map": "/reactportfo/static/js/main.603fd898.js.map"
+    "main.ed0ed591.js.map": "/reactportfo/static/js/main.ed0ed591.js.map"
   },
   "entrypoints": [
     "static/css/main.4a53326c.css",
-    "static/js/main.603fd898.js"
+    "static/js/main.ed0ed591.js"
   ]
 }
