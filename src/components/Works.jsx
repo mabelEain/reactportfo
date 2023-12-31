@@ -1,7 +1,8 @@
 import React from "react";
 import robofriends from "../assets/robofriends.png";
 import admin_dashboard from "../assets/react-admin-home.png";
-import saledb from "../assets/sale_dashboard.png";
+import netflix from "../assets/netflixss.png";
+import christmas from "../assets/christmasgiftss.png";
 import salarymd from "../assets/salary_prediction.png";
 
 const Works = () => {
@@ -28,10 +29,71 @@ const Works = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React App
+                Admin Dashboard
               </span>
               <div className="pt-8 text-center">
                 <a href="https://helpful-biscotti-50ad43.netlify.app/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${netflix})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Netflix UI
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://netflixbymabel.netlify.app/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${robofriends})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Robo React
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://5xlqk9.csb.app/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${christmas})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div "
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Christmas's Landing
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://christmasgiftlanding.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -59,27 +121,6 @@ const Works = () => {
               </div>
             </div>
           </div>
-          {/* Grid Item */}
-          <div
-            style={{ backgroundImage: `url(${robofriends})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md 
-              flex justify-center text-center items-center mx-auto content-div "
-          >
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React App
-              </span>
-              <div className="pt-8 text-center">
-                <a href="https://5xlqk9.csb.app/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* Grid Item */}
         </div>
       </div>
     </div>
